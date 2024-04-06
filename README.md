@@ -23,7 +23,7 @@ Execute Patch Script
  .\Patch-VBScriptFoD.ps1
 ```
 
-Then head to Microsoft Deployment Toolkit.
+Then head to Microsoft Deployment Toolkit. \
 From the `Actions` pane, select `Properties` then `Windows PE`. \
 Ensure the `Platform` is `amd64` and select `Features` and enable:
 
