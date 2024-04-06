@@ -25,10 +25,10 @@ Execute Patch Script
 
 Then head to Microsoft Deployment Toolkit.
 From the `Actions` pane, select `Properties` then `Windows PE`. \
-Ensure the `Platform` is `amd64` and select `Features` and enable: \
+Ensure the `Platform` is `amd64` and select `Features` and enable:
 
-[x] [microsoft-windows-vbscript-fod-package~31bf3856ad364e35~amd64] \
-[x] [microsoft-windows-vbscript-fod-package~31bf3856ad364e35~wow64]
+[x] `microsoft-windows-vbscript-fod-package~31bf3856ad364e35~amd64` \
+[x] `microsoft-windows-vbscript-fod-package~31bf3856ad364e35~wow64`
 
 ![](assets/mdt_winpe_settings.png)
 
